@@ -5,8 +5,8 @@
 - 📫 How to reach me ...
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-Diego%20Fernandes-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-oliveira-aa319b1b2/)](https://www.linkedin.com/in/lucas-oliveira-aa319b1b2/) 
-[![Gmail Badge](https://img.shields.io/badge/-diego.schell.f@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devlucasandrius@gmail.com)](mailto:devlucasandrius@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Oliveira-39aae1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-oliveira-aa319b1b2/)](https://www.linkedin.com/in/lucas-oliveira-aa319b1b2/) 
+[![Gmail Badge](https://img.shields.io/badge/-devlucasandrius@gmail.com-39aae1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devlucasandrius@gmail.com)](mailto:devlucasandrius@gmail.com)
 <!---
 LucasAndrius/LucasAndrius is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
