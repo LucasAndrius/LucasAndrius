@@ -27,8 +27,9 @@ Já possuo algum conhecimento de javascript, bootstrap, sass , atualmente entran
 
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LucasAndrius&show_icons=true&count_private=true&theme=dark" width="350"></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LucasAndrius&show_icons=true&count_private=true&theme=dark" width="50%"></a>
 </p>
+<img width="50%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAndrius&hide=html&layout=compact&theme=default" />
 
 
 
