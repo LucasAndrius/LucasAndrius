@@ -26,12 +26,8 @@ Já possuo algum conhecimento de javascript, bootstrap, sass , atualmente entran
 [![Gmail Badge](https://img.shields.io/badge/-devlucasandrius@gmail.com-39aae1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devlucasandrius@gmail.com)](mailto:devlucasandrius@gmail.com)
 
 
-  <p align="right">
-    <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LucasAndrius&show_icons=true&count_private=true&theme=dark" width="400"></a>
-  </p>
-  <img width="400" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAndrius&hide=html&layout=compact&theme=default" />
-
-
+<img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasAndrius&hide=html&layout=compact&theme=default" />
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=LucasAndrius&theme=default" />
 
 
 
