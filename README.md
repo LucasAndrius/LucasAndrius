@@ -3,16 +3,21 @@
 Meu nome é Lucas Andrius de Oliveira, atualmente resido no Rio Grande do Sul e apaixonado por tecnologia.
 
 
-# Tecnologias
-<p align='center'>
-    <img align="center" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-    <img align="center" alt="HTML" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-    <img align="center" alt="CSS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-    <img align="center" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-    <img align="center" alt="Typescript" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/typescript/typescript.png" />
-    <img align="center" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />    
-    <img align="center" alt="git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-</p>
+# Tecnologias:
+<div style="display:flex;padding:10px">
+<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+  &nbsp;
+<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  &nbsp;
+<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
+  &nbsp;
+<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  &nbsp;
+<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
+  &nbsp;
+<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
+ &nbsp;
+</div>
 
 Já possuo algum conhecimento de javascript, bootstrap, sass , atualmente entrando no reactjs. Mas possuo grande interesse em estudar outras áreas da programação, como mobile. 🙂
 
@@ -25,9 +30,7 @@ Já possuo algum conhecimento de javascript, bootstrap, sass , atualmente entran
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=LucasAndrius&show_icons=true&count_private=true&theme=dark" width="350"></a>
 </p>
 
-<p align='center'>
-  <a href="#" style="cursor: default"><img src="https://komarev.com/ghpvc/?username=LucasAndrius&color=brightgreen"></a>
-</p>
+
 
 
 
