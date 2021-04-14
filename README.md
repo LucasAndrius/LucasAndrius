@@ -4,22 +4,14 @@ Meu nome é Lucas Andrius de Oliveira, atualmente resido no Rio Grande do Sul e 
 
 
 # Tecnologias:
-<div style="display:flex;padding:10px">
-<img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  &nbsp;
-<img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  &nbsp;
-<img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />
-  &nbsp;
-  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?&style=for-the-badge&logo=html5&logoColor=white" />
-  &nbsp;  
-<img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  &nbsp;
-<img alt="CSS3" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  &nbsp;
-<img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
- &nbsp;
-</div>
+
+![Javascript Badge](https://img.shields.io/badge/-Javascript-F29400?style=flat-square&logo=javascript&logoColor=white)
+[![React Badge](https://img.shields.io/badge/-ReactJS-13B5EA?style=flat-square&logo=react&logoColor=white&link=https://reactjs.org)](https://reactjs.org)
+[![Node.js Badge](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white&link=https://nodejs.org/en/)](https://nodejs.org/en/)
+![Bootstrap Badge](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5 Badge](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![CSS3 Badge](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Git Badge](https://img.shields.io/badge/-GIT-F34F29?style=flat-square&logo=git&logoColor=white)
 
 Já possuo algum conhecimento de javascript, bootstrap, sass , atualmente entrando no reactjs. Mas possuo grande interesse em estudar outras áreas da programação, como mobile. 🙂
 
