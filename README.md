@@ -1,7 +1,5 @@
 # Bem Vindo(a)!  🖐
 
-Meu nome é Lucas Andrius de Oliveira, atualmente resido no Rio Grande do Sul e apaixonado por tecnologia.
-
 
 # Tecnologias:
 
