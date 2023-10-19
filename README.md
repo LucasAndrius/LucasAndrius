@@ -15,7 +15,7 @@ Já possuo algum conhecimento de javascript, bootstrap, sass , atualmente entran
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-Lucas%20Oliveira-39aae1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-oliveira-aa319b1b2/)](https://www.linkedin.com/in/lucas-oliveira-aa319b1b2/) 
-[![Gmail Badge](https://img.shields.io/badge/-devlucasandrius@gmail.com-39aae1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:devlucasandrius@gmail.com)](mailto:lukasandrios@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-lukasandrios@gmail.com-39aae1?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lukasandrios@gmail.com)](mailto:lukasandrios@gmail.com)
 
 ***
 
